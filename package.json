@@ -1,13 +1,13 @@
 {
   "name": "iobroker.icons-smarthome",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "icons-smarthome",
   "author": {
     "name": "jogibear9988",
     "email": "jochen.kuehner@gmx.de"
   },
   "homepage": "https://github.com/iobroker-community-adapters/ioBroker.icons-smarthome",
-  "license": "MIT",
+  "license": "CC0-1.0",
   "keywords": [
     "ioBroker",
     "icons",
@@ -22,7 +22,6 @@
   "engines": {
     "node": ">= 16"
   },
-  "main": "README.md",
   "dependencies": {},
   "devDependencies": {
     "@alcalzone/release-script": "^3.6.0",

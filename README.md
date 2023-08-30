@@ -15,38 +15,25 @@
 icons usable from ioBroker vizualizations like webui, vis, ...
 extracted from ioBroker.habpanel
 
-### DISCLAIMER
+icons usable from ioBroker vizualizations like webui, vis, ...
+extracted from ioBroker.habpanel (https://github.com/iobroker-community-adapters/ioBroker.habpanel/tree/master/src/assets/icons)
 
-Please make sure that you consider copyrights and trademarks when you use names or logos of a company and add a disclaimer to your README.
-You can check other adapters for examples or ask in the developer community. Using a name or logo of a company without permission may cause legal problems for you.
+original source: https://dribbble.com/shots/2084609-Smart-House-Icon-Set-Free
+license is CC0-1.0, see in the zip on the original source
+
+## Credits
+
+Thanks to Roman Malashkov for creating the icons
 
 ## Changelog
 <!--
     Placeholder for the next version (at the beginning of the line):
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.0.0 (2023-08-30)
 * (jogibear9988) initial release
 
 ## License
-MIT License
+CC0-1.0
 
 Copyright (c) 2023 jogibear9988 <jochen.kuehner@gmx.de>
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
