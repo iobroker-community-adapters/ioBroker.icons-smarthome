@@ -1,0 +1,71 @@
+{
+  "common": {
+    "name": "icons-smarthome",
+    "version": "0.0.1",
+    "news": {
+      "0.0.1": {
+        "en": "initial release",
+        "de": "Erstveröffentlichung",
+        "ru": "Начальная версия",
+        "pt": "lançamento inicial",
+        "nl": "Eerste uitgave",
+        "fr": "Première version",
+        "it": "Versione iniziale",
+        "es": "Versión inicial",
+        "pl": "Pierwsze wydanie",
+        "uk": "Початкова версія",
+        "zh-cn": "首次出版"
+      }
+    },
+    "titleLang": {
+      "en": "icons smarthome",
+      "de": "icons smarthome",
+      "ru": "icons smarthome",
+      "pt": "icons smarthome",
+      "nl": "icons smarthome",
+      "fr": "icons smarthome",
+      "it": "icons smarthome",
+      "es": "icons smarthome",
+      "pl": "icons smarthome",
+      "uk": "icons smarthome",
+      "zh-cn": "icons smarthome"
+    },
+    "desc": {
+      "en": "Icons Smarthome",
+      "de": "Icons Smarthome",
+      "ru": "Иконки Smarthome",
+      "pt": "Ícones Smarthome",
+      "nl": "Icons Smarthome",
+      "fr": "Icons Smarthome",
+      "it": "Icone Smarthome",
+      "es": "Iconos Smarthome",
+      "pl": "Icons Smarthome (ang.)",
+      "uk": "Ікона Smarthome",
+      "zh-cn": "Icons Smarthome"
+    },
+    "authors": [
+      "jogibear9988 <jochen.kuehner@gmx.de>"
+    ],
+    "keywords": [
+      "icons"
+    ],
+    "license": "MIT",
+    "platform": "Javascript/Node.js",
+    "icon": "icons-smarthome.png",
+    "enabled": true,
+    "extIcon": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.icons-smarthome/main/admin/icons-smarthome.png",
+    "readme": "https://github.com/iobroker-community-adapters/ioBroker.icons-smarthome/blob/main/README.md",
+    "loglevel": "info",
+    "onlyWWW": true,
+    "noConfig": true,
+    "singleton": true,
+    "type": "visualization-icons",
+    "mode": "none",
+    "adminUI": {
+      "config": "none"
+    }
+  },
+  "objects": [],
+  "instanceObjects": [],
+  "native": {}
+}
