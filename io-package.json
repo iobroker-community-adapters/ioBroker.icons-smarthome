@@ -62,7 +62,10 @@
     "keywords": [
       "icons"
     ],
-    "license": "CC0-1.0",
+    "licenseInformation": {
+      "type": "free",
+      "license": "CC0-1.0"
+    },
     "platform": "Javascript/Node.js",
     "icon": "icons-smarthome.png",
     "enabled": true,
