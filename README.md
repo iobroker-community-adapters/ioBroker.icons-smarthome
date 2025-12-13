@@ -36,4 +36,4 @@ Thanks to Roman Malashkov for creating the icons
 ## License
 CC0-1.0
 
-Copyright (c) 2023 jogibear9988 <jochen.kuehner@gmx.de>
+Copyright (c) 2023-2025 jogibear9988 <jochen.kuehner@gmx.de>
